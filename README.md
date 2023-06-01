@@ -2,8 +2,8 @@
 A shell with limited functionalities.
 
 ## Usage
-1 - 'make'
-2 - './mysh'
+- 'make'
+- './mysh'
 
 ## What can it do ?
     ls
