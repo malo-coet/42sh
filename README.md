@@ -2,7 +2,8 @@
 A shell with limited functionalities.
 
 ## Usage
-Run > make
+1 - 'make'
+2 - './mysh'
 
 ## What can it do ?
     ls
